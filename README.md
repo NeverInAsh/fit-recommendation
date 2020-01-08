@@ -18,3 +18,9 @@ There are couple of papers that worked on solving this problem
 The code I am sharing is for the latest paper in the series where author has described a SFNet architecture. Attached is an image shared in the paper.
 
 ![SFNet Architecture](images/SFNet_Arch.JPG)
+
+## Data
+I am using modcloth data to build the recommender system , and without loss of brevity the same code can be used for renttherunway dataset with minor changes.
+Data can be found from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation.
+
+Credits to Rishab Misra for the data.
