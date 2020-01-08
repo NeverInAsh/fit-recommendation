@@ -16,3 +16,5 @@ There are couple of papers that worked on solving this problem
 - https://www.youtube.com/watch?v=OS9bXqeLhMA (Decomposing Fit Semantics)
 
 The code I am sharing is for the latest paper in the series where author has described a SFNet architecture. Attached is an image shared in the paper.
+
+![SFNet Architecture](images/SFNet_Arch.JPG)
