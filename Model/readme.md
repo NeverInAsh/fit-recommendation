@@ -1,0 +1,4 @@
+- Can be used to store models
+- Create folders as required 
+- ./Text :- For Text Model (Experimentation)
+- ./Main :- Implentation of SFNet Architecture
