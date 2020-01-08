@@ -1,0 +1,2 @@
+- Download data from kaggle link https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation
+- Place the json in this folder (fit-recommentation/Data)
