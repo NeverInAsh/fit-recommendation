@@ -24,3 +24,10 @@ I am using modcloth data to build the recommender system , and without loss of b
 Data can be found from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation.
 
 Credits to Rishab Misra for the data.
+
+## Solution Design
+- Do data munging and feature normalization on the modcloth dataset.
+- Use of TF2.0 Feature layers to convert modlcoth columns into features for our NN model.
+- Create Customer/Article pathway non-linearities with skip connection as a class.
+- Create the SFNet Architecture
+- Experiments with Text data using pre-trained models liker Bert/Elmo etc.
